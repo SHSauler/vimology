@@ -1,0 +1,19 @@
+#!/user/bin/env python3 -tt
+"""
+Module documentation.
+"""
+
+# Internal imports
+
+# External imports
+
+# Project imports
+
+#### SETTINGS ####
+
+####/SETTINGS ####
+
+def main():
+
+if __name__ == '__main__':
+    main()
